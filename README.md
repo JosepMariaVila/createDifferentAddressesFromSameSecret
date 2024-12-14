@@ -28,10 +28,7 @@ Number (1) results in address r3B2P7CDYUEYQVEjqwC9hjS3v5UqaBj4Bh
 
 Number (2) results in address rMCHEBdZGABmh8JdBBrPnjmiJhyTKizqG9, and so on.
 
-Each time you change the number, save, and open a terminal. In the terminal type "go run main.go" and enter. The program will run and the result for number 0 will look like this:
+Each time you change the number, save, open/go to the terminal and type "go run main.go" and enter. The program will run and the result for number 0 will look like this:
 secret: sp6JS7f14BuwFY8Mw6bTtLKWauoUs address: rJq5ce8cdbWBsysXx32rvLMV6DUxMwruMT
 
 Have fun creating addresses!
-
-
-
