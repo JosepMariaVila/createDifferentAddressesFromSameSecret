@@ -19,8 +19,11 @@ In the "const secret = "sp6JS7f14BuwFY8Mw6bTtLKWauoUs" change the seed in the ex
 That secret seed will generate as many different addressess as you want, it's just purely a mathematical process. Accounts just become activated if they receive XRP.
 
 In the "Generate(0) function, you can change that number for any other number, each number results in a new address using the same secret to generate it.
+
 Number (0) results in address rJq5ce8cdbWBsysXx32rvLMV6DUxMwruMT
+
 Number (1) results in address r3B2P7CDYUEYQVEjqwC9hjS3v5UqaBj4Bh
+
 Number (2) results in address rMCHEBdZGABmh8JdBBrPnjmiJhyTKizqG9, and so on.
 
 Each time you change the number, save, and open a terminal. In the terminal type "go run main.go" and enter. The program will run and the result for number 0 will look like this:
