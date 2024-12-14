@@ -2,7 +2,9 @@
 
 Decode a XRPL secret key (sXXX) into the family of private and public ECDSA keys and the associated XRPL addresses.
 
-You need Visual Studio Code.
+You need the program Visual Studio Code, you can download it in their official website:
+
+https://code.visualstudio.com/
 
 Install also in Visual Studio Code the extension Go, follow this youtube tutorial for installing it if needed: 
 
