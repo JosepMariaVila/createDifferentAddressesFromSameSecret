@@ -2,6 +2,8 @@
 
 Decode a XRPL secret key (sXXX) into the family of private and public ECDSA keys and the associated XRPL addresses.
 
+It comes from this old proposal: https://pkg.go.dev/hg.sr.ht/~dchapes/ripple@v0.0.0-20220513163231-b31a8ebbcbd9/crypto/rkey
+
 You need the program Visual Studio Code, you can download it in their official website:
 
 https://code.visualstudio.com/
