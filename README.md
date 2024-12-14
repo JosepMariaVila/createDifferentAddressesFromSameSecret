@@ -10,7 +10,7 @@ Install in Visual Studio Code the extension Go (we'll use the programming langua
 
 https://www.youtube.com/watch?v=1MXIGYrMk80
 
-Download all the files in this repository in a folder in your computer.
+Download all the files in this repository in a folder in your computer, they have to look exactly like they look here.
 
 Open that folder with Visual Studio Code.
 
