@@ -20,7 +20,7 @@ In the "const secret = "sp6JS7f14BuwFY8Mw6bTtLKWauoUs" change the seed in the ex
 
 That secret seed will generate as many different addressess as you want, it's just purely a mathematical process. Accounts just become activated if they receive XRP.
 
-In the "Generate(0) function, you can change that number for any other number, each number results in a new address using the same secret to generate it.
+In the "Generate(0)" function, you can change that number for any other number, each number results in a new address using the same secret to generate it.
 
 Number (0) results in address rJq5ce8cdbWBsysXx32rvLMV6DUxMwruMT
 
