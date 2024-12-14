@@ -36,3 +36,6 @@ Each time you change the number, save, open/go to the terminal and type "go run 
 secret: sp6JS7f14BuwFY8Mw6bTtLKWauoUs address: rJq5ce8cdbWBsysXx32rvLMV6DUxMwruMT
 
 Have fun creating addresses!
+
+Warning: it's not recommended using the same secret seed for different addresses, it's a better practice use different secret seeds for different addresses.
+
