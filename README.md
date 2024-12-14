@@ -6,7 +6,7 @@ You need the program Visual Studio Code, you can download it in their official w
 
 https://code.visualstudio.com/
 
-Install also in Visual Studio Code the extension Go (we will use the programming language Go), follow this youtube tutorial for installing it if needed: 
+Install in Visual Studio Code the extension Go (we'll use the programming language Go), follow this youtube tutorial for installing it if needed: 
 
 https://www.youtube.com/watch?v=1MXIGYrMk80
 
